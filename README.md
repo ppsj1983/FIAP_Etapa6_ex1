@@ -2,8 +2,8 @@
 
 <br>
 
-# Trabalho Flex Media 
-## *Aplicação de Inteligencia Artificial em dispositivos de autoatendimento - totem*
+# Trabalho 6ª Etapa Exercicio 1 
+## *O despertar da Rede Neural*
 
 ## Nome do grupo
 
