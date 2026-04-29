@@ -72,3 +72,7 @@ teste 100
 Imagens de Teste 
 <p align="center">
 <img width="503" height="260" alt="Image" src="https://github.com/user-attachments/assets/769684cc-8f5d-4bbd-9b67-fb63a681baf7" /></a></p>
+
+Comparativo
+<p align="center">
+<img width="311" height="235" alt="Image" src="https://github.com/user-attachments/assets/a0436d60-4d95-48ac-8230-d43b2b23f57a" /></a></p>
