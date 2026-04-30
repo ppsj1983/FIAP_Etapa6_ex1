@@ -13,6 +13,10 @@
 ## 👨‍🎓 Apresentacao: 
 - <a href="https://youtu.be/Sg_Iei3ZDsA">Video Apresentação - YOUTUBE</a>
 
+## 👨‍🎓 Link Google Drive: 
+
+- <a href="https://drive.google.com/drive/folders/1UJnFaQf-tMIt-MzIOVnvC2iWGnIqCF8c?usp=sharing">Arquivo de Imagens</a>
+
 ## 📜 Descrição da atividade
 
 Desenvolver um modelo de detecção de objetos utilizando YOLOv5
